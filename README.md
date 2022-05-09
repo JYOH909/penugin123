@@ -1,6 +1,5 @@
 
 <h1>Penguin909</h1>
----------------------------
 <p>Name: 909</p>
 <p>Age: 14</p>
 <p>Pronouns: He, Him</p>
