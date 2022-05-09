@@ -1,9 +1,12 @@
-Hi, I’m @penugin123
-Interested in skiing, coding and hockey
-Currently learning Websites
-Reach me discord gd#5132
 
-<!---
-penugin123/penugin123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Penguin909</h1>
+---------------------------
+<p>Name: 909</p>
+<p>Age: 14</p>
+<p>Pronouns: He, Him</p>
+<p>Languages: Python, JavaScript, Html, CSS</p>
+<p>Hobbies: Coding, Hockey, skiing</p>
+<p>Contact: Discord: gd#5132</p>
+
+
+
